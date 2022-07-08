@@ -1,6 +1,8 @@
 #include <Pixy2.h>
 #include <SPI.h>
 
+// Nambahin komen gak jelas
+
 // This is the main Pixy object
 Pixy2 pixy;
 
